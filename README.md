@@ -23,4 +23,19 @@ JavaScript  Programs
         - Block Scope
         - Global Scope
         - Lexical Block Scope
+    
+    6. Closures
+        - How to use Closures
+        - Uses of Closures
+    
+    7. setTimeout + Closures
+    
+    8. Constructors
+    
+    9. Functions
+        - Function Statement (Function Declaration)
+        - Function Expression
+        - Anonymous Function
+        - Named Function
+        - First Class Function (First Class Citizens)
         
