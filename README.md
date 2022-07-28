@@ -39,3 +39,11 @@ JavaScript  Programs
         - Named Function
         - First Class Function (First Class Citizens)
         
+    10. Callback Functions
+    
+    11. Event Listeners
+    
+    12. Higher Order Function
+    
+    13. Map Filter & Reduce
+        
